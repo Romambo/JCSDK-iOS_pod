@@ -1,0 +1,6 @@
+framework module TemSDK {
+  umbrella header "TemSDK.h"
+
+  export *
+  module * { export * }
+}

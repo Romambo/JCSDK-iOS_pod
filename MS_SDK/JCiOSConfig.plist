@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appid</key>
+	<string>bcb79235-5af7-4e8b-be2c-2d10f5ae960b</string>
+	<key>channelid</key>
+	<string>IOS</string>
+	<key>splashAreaID</key>
+	<string></string>
+	<key>bannerAreaID</key>
+	<string></string>
+	<key>interAreaID</key>
+	<string></string>
+	<key>rewardVideoAreaID</key>
+	<string></string>
+	<key>nativeAreaID</key>
+	<string></string>
+	<key>ReYunAppID</key>
+	<string>84423d9a3a3f02a7908307551e59a3f2</string>
+	<key>ReYunChannelID</key>
+	<string>00A11EDC7FF9DBAAF161973C12B2DA05</string>
+	<key>UmengAppID</key>
+	<string>5f5625223739314483bd32e4</string>
+	<key>ShuShuAppID</key>
+	<string>debug-appid</string>
+	<key>TalkingDataAppID</key>
+	<string>80CA54D00F624CDB82A5BF4DA4EB3429</string>
+</dict>
+</plist>
